@@ -170,7 +170,7 @@ namespace Fuel_System
             numericUpDown4.Value = 0;
             numericUpDown5.Value = 0;
 
-            label29.Text = "_____";
+            label29.Text = "_______";
         }
 
         string[] tank_info;
