@@ -329,7 +329,7 @@ namespace Fuel_System
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "AkarFuel Otomasyonu";
+            this.Text = "Fuel Automation";
             progressBar1.Maximum = 1000;progressBar2.Maximum = 1000;progressBar3.Maximum = 1000;
             progressBar4.Maximum = 1000;progressBar5.Maximum = 1000;
 
