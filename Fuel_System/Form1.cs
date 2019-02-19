@@ -343,8 +343,8 @@ namespace Fuel_System
 
             numericupdown_value();
 
-            string[] yakit_turleri = { "Gasoline 95 Octane", "Gasoline 97 Octane", "Diesel", "Euro Diesel", "LPG" };
-            comboBox1.Items.AddRange(yakit_turleri);
+            string[] fuel_types = { "Gasoline 95 Octane", "Gasoline 97 Octane", "Diesel", "Euro Diesel", "LPG" };
+            comboBox1.Items.AddRange(fuel_types);
 
             numericUpDown1.Enabled = false;
             numericUpDown2.Enabled = false;
